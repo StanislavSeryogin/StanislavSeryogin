@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Stanislav Seryogin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=22&pause=1500&color=485EF7&width=435&lines=📱+Mobile+Developer+%7C+🚀+Backend+Engineer;4+years+of+coding+experience;Flutter+%26+Swift+Expert;Go+%26+Dart+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=485EF7&width=435&lines=📱+Mobile+Developer+%7C+🚀+Backend+Engineer;4+years+of+coding+experience;Flutter+%26+Swift+Expert;Go+%26+Dart+Backend+Developer)](https://git.io/typing-svg)
 
 I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
 
