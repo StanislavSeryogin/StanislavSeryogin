@@ -15,7 +15,7 @@ I'm a passionate mobile app developer with expertise in cross-platform and nativ
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![StoreKit](https://img.shields.io/badge/StoreKit-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-003400?style=for-the-badge&logo=apple&logoColor=white)
-![RealityKit](https://img.shields.io/badge/RealityKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![RealityKit](https://img.shields.io/badge/RealityKit-0003410?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Backend Development
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
