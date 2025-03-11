@@ -22,8 +22,8 @@ I'm a passionate mobile app developer with expertise in cross-platform and nativ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StanislavSeryogin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
 ## 📫 Let's Connect
