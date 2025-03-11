@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Stanislav Seryogin
 
-## 📱 Mobile Developer | 🚀 Backend Engineer
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=485EF7&width=435&lines=📱+Mobile+Developer+%7C+🚀+Backend+Engineer;4+years+of+coding+experience)](https://git.io/typing-svg)
+
 I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
 
 ## 🛠️ Tech Stack
