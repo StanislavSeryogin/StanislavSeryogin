@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=485EF7&width=535&lines=📱+Mobile+Developer+%7C+🚀+Backend+Engineer;4%2B+years+of+coding+experience;Flutter+%26+Swift+%26+Kotlin+Expert;Go+%26+Dart+Backend+Developer)](https://git.io/typing-svg)
 
-I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
+####I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
 
 ## 🛠️ Tech Stack
 
