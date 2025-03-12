@@ -44,6 +44,8 @@
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-FF6F00?style=for-the-badge&logo=codemagic&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-FF6138?style=for-the-badge&logo=bitrise&logoColor=white)
 
 ## 📊 GitHub Stats
 
