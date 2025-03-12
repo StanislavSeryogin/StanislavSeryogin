@@ -41,6 +41,8 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=cypress&logoColor=white)
 
+### CI/CD
+
 ## 📊 GitHub Stats
 
 <div align="center">
