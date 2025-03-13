@@ -51,9 +51,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StanislavSeryogin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/> -->
 </div>
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-seryogin-496885223/)
