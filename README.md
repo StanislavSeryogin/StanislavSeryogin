@@ -51,7 +51,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StanislavSeryogin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
 ## 📫 Let's Connect
