@@ -8,7 +8,7 @@
 
 ### M2M App by M2M.EU
 
-<div align="center">
+<div>
   <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
   </a>
