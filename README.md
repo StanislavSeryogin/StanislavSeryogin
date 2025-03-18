@@ -24,8 +24,7 @@
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/>
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/>
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(6).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/>
 </div>
 
 
