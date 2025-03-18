@@ -4,23 +4,6 @@
 
 #### I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
 
-**About the project:**
-M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M communications, enabling users to efficiently monitor and control their connected devices.
-
-**Key Features:**
-- Real-time device monitoring and control
-- Secure communication protocols
-- Intuitive dashboard with data visualization
-- Cross-platform compatibility
-- Push notifications
-
-**Technologies used:**
-- Flutter and Arrow
-- REST API integration
-- Real-time data processing
-- Firebase services
-- Secure authentication
-
 ## 🛠️ Tech Stack
 
 ### Mobile Development
@@ -96,7 +79,7 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 </div>
 
 <br>
-**About the project:**
+###About the project:
 <br>
 <br>
 M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M (Machine-to-Machine) communications, enabling users to efficiently monitor and control their connected devices.
