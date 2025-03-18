@@ -4,36 +4,6 @@
 
 #### I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
 
-## 📱 Latest Project
-
-### M2M App by M2M.EU
-
-<div>
-  <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
-    <img src="https://img.shields.io/badge/App_Store-414141?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=m2m.eu&hl=en">
-    <img src="https://img.shields.io/badge/Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-</div>
-<div align="center">
-  <h4>App Screenshots</h4>
-  <p>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(1).webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(2).webp" alt="M2M App Showcase" width="200"/></kbd>
-  </p>
-  <p>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/></kbd>
-  </p>
-  <p>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/></kbd>
-  </p>
-</div>
-
-
 **About the project:**
 M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M communications, enabling users to efficiently monitor and control their connected devices.
 
@@ -99,6 +69,36 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StanislavSeryogin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/> -->
+</div>
+
+
+## 📱 Latest Project
+
+### M2M App by M2M.EU
+
+<div>
+  <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
+    <img src="https://img.shields.io/badge/App_Store-414141?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=m2m.eu&hl=en">
+    <img src="https://img.shields.io/badge/Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+</div>
+<div align="center">
+  <h4>App Screenshots</h4>
+  <p>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(1).webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(2).webp" alt="M2M App Showcase" width="200"/></kbd>
+  </p>
+  <p>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/></kbd>
+  </p>
+  <p>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/></kbd>
+  </p>
 </div>
 
 ## 📫 Let's Connect
