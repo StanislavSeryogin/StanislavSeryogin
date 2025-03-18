@@ -75,6 +75,8 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 ## 📱 Latest Project
 
 ### M2M App
+<br>
+<br>
 
 <div>
   <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
@@ -85,13 +87,17 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
   </a>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/>
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/>
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/>
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/>
 </div>
-
+<br>
+<br>
 **About the project:**
 
 M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M (Machine-to-Machine) communications, enabling users to efficiently monitor and control their connected devices.
