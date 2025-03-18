@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/StanislavSeryogin/project-assets/raw/main/m2m_app_showcase.png" alt="M2M App Showcase" width="800"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="800"/>
 </div>
 
 
