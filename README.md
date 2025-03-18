@@ -9,10 +9,6 @@
 ### M2M App by M2M.EU
 
 <div align="center">
-  <img src="https://github.com/StanislavSeryogin/project-assets/raw/main/m2m_app_showcase.png" alt="M2M App Showcase" width="800"/>
-</div>
-
-<div align="center">
   <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
   </a>
@@ -20,6 +16,12 @@
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/StanislavSeryogin/project-assets/raw/main/m2m_app_showcase.png" alt="M2M App Showcase" width="800"/>
+</div>
+
+
 
 **About the project:**
 M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M communications, enabling users to efficiently monitor and control their connected devices.
