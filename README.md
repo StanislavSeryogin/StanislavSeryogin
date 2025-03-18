@@ -16,17 +16,22 @@
     <img src="https://img.shields.io/badge/Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
 </div>
-
 <div align="center">
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(1).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(2).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/>
+  <h4>App Screenshots</h4>
+  <p>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(1).webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(2).webp" alt="M2M App Showcase" width="200"/></kbd>
+  </p>
+  <p>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/></kbd>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/></kbd>
+  </p>
+  <p>
+    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/></kbd>
+  </p>
 </div>
-
 
 
 **About the project:**
