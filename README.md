@@ -75,7 +75,6 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 ## 📱 Latest Project
 
 ### M2M App by M2M.EU
-
 <div>
   <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
     <img src="https://img.shields.io/badge/App_Store-414141?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
@@ -85,20 +84,13 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
   </a>
 </div>
 <div align="center">
-  <h4>App Screenshots</h4>
-  <p>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(1).webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(2).webp" alt="M2M App Showcase" width="200"/></kbd>
-  </p>
-  <p>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/></kbd>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/></kbd>
-  </p>
-  <p>
-    <kbd><img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/></kbd>
-  </p>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(1).webp" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(2).webp" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).webp" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(5).webp" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).webp" alt="M2M App Showcase" width="200"/>
 </div>
 
 ## 📫 Let's Connect
