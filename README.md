@@ -74,7 +74,7 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 
 ## 📱 Latest Project
 
-### M2M App by M2M.EU
+### M2M App
 
 <div>
   <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
@@ -84,6 +84,7 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
     <img src="https://img.shields.io/badge/Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
 </div>
+
 <div align="center">
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.webp" alt="M2M App Showcase" width="200"/>
   <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).webp" alt="M2M App Showcase" width="200"/>
