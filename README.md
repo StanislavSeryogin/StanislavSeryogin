@@ -80,7 +80,7 @@
 
 <br>
 
-###About the project:
+### M2M App
 
 <br>
 <br>
