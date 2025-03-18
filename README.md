@@ -26,15 +26,15 @@
 **About the project:**
 M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M communications, enabling users to efficiently monitor and control their connected devices.
 
-**Key features:**
-- Real-time device monitoring and management
+**Key Features:**
+- Real-time device monitoring and control
 - Secure communication protocols
 - Intuitive dashboard with data visualization
 - Cross-platform compatibility
-- Push notifications for critical events
+- Push notifications
 
 **Technologies used:**
-- Flutter & Dart
+- Flutter and Arrow
 - REST API integration
 - Real-time data processing
 - Firebase services
