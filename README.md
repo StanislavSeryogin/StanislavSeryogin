@@ -61,10 +61,10 @@
 <br>
 
 <div>
-  <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
-    <img src="https://img.shields.io/badge/App_Store-414141?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
-  </a>
 
+  <a href="https://play.google.com/store/apps/details?id=m2m.eu&hl=en">
+    <img src="https://img.shields.io/badge/Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
 </div>
 
 <br>
