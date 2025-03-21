@@ -72,10 +72,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.png" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).png" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).png" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).png" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.jpg" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).jpg" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).jpg" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).jpg" alt="M2M App Showcase" width="200"/>
 </div>
 
 <br>
