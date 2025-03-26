@@ -61,6 +61,8 @@
 
 ##### A Telegram bot that automatically scouts and summarizes news articles from RSS feeds, powered by modern AI technology.
 
+<img src="https://github.com/StanislavSeryogin/images/blob/main/chat_bot.gif" alt="Chat Bot GIF" width="300">
+
 #### Key Features
 - RSS feed monitoring with configurable sources and priorities
 - Automatic article summarization using OpenAI's GPT models
@@ -70,6 +72,13 @@
 - Priority-based article selection for important news
 
 #### Tech Stack
+- Go (1.22+) with modern concurrency patterns
+- PostgreSQL for persistent storage
+- OpenAI API integration for intelligent summarization
+- Telegram Bot API for user interaction
+- Docker support for containerized deployment
+
+##### The bot autonomously fetches articles from various sources, evaluates their relevance, generates concise summaries using AI, and publishes them to a Telegram channel - creating a personalized news feed with minimal human intervention.
 
 ### M2M App
 <br>
