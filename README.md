@@ -57,6 +57,14 @@
 
 ## 📱 Latest Project
 
+### Neuro Scout Bot
+
+#### A Telegram bot that automatically scouts and summarizes news articles from RSS feeds, powered by modern AI technology.
+
+##### Key Features
+
+#### Tech Stack
+
 ### M2M App
 <br>
 
