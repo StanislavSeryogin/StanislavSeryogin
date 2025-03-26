@@ -62,6 +62,12 @@
 ##### A Telegram bot that automatically scouts and summarizes news articles from RSS feeds, powered by modern AI technology.
 
 #### Key Features
+- RSS feed monitoring with configurable sources and priorities
+- Automatic article summarization using OpenAI's GPT models
+- Smart filtering system to avoid duplicate content
+- Custom Telegram commands for source management
+- Auto-publishing to Telegram channels with AI-generated summaries
+- Priority-based article selection for important news
 
 #### Tech Stack
 
