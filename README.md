@@ -59,9 +59,9 @@
 
 ### Neuro Scout Bot
 
-#### A Telegram bot that automatically scouts and summarizes news articles from RSS feeds, powered by modern AI technology.
+##### A Telegram bot that automatically scouts and summarizes news articles from RSS feeds, powered by modern AI technology.
 
-##### Key Features
+#### Key Features
 
 #### Tech Stack
 
