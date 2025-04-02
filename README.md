@@ -47,14 +47,6 @@
 ![Codemagic](https://img.shields.io/badge/Codemagic-FF6F00?style=for-the-badge&logo=codemagic&logoColor=white)
 ![Bitrise](https://img.shields.io/badge/Bitrise-8A2BE2?style=for-the-badge&logo=bitrise&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StanislavSeryogin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight&langs_count=4&hide=html,css,shell,javascript,typescript,python,java,ruby&include_all_repos=true" alt="Top Languages" height="170"/>
-</div>
-
-
 ## 📱 Latest Project
 
 ### Neuro Scout Bot
@@ -121,6 +113,13 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 - Maps & Geolocator
 - Firebase services
 - Secure authentication
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StanislavSeryogin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSeryogin&layout=compact&theme=tokyonight&langs_count=4&hide=html,css,shell,javascript,typescript,python,java,ruby&include_all_repos=true" alt="Top Languages" height="170"/>
+</div>
 
 ## 📫 Let's Connect
 
