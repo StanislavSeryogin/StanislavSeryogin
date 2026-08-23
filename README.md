@@ -68,7 +68,22 @@ Currently developing and maintaining ReadEat — a cross-platform app that combi
 
 #### Tech Stack
 Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, and native Swift/Kotlin integrations.
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-08-23 at 19 29 41" src="https://github.com/user-attachments/assets/23ece002-fa28-44ae-9ea4-0ad2552a86fd" /><img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-08-23 at 19 29 49" src="https://github.com/user-attachments/assets/1a8996e2-9824-4e89-b0d2-e910cdbe4f34" />
+  <br>
+
+  <div align="center">
+    <img
+      src="https://github.com/user-attachments/assets/23ece002-fa28-44ae-9ea4-0ad2552a86fd"
+      alt="ReadEat Home Screen"
+      width="200"
+    />
+    <img
+      src="https://github.com/user-attachments/assets/1a8996e2-9824-4e89-b0d2-e910cdbe4f34"
+      alt="ReadEat App Screen"
+      width="200"
+    />
+  </div>
+
+  <br>
 
 
 
