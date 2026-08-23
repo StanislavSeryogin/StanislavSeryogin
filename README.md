@@ -171,10 +171,8 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 
 ## 📊 GitHub Stats
   <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api?
-    username=StanislavSeryogin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_rank=true&amp;include_all_commits=true" alt="GitHub Stats" height="170" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?
-    username=StanislavSeryogin&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=4&amp;hide=html,css,shell,javascript,typescript,python,java,ruby&amp;
+    <img src="https://github-stats-extended.vercel.app/api?username=StanislavSeryogin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_rank=true&amp;include_all_commits=true" alt="GitHub Stats" height="170" />
+<img src="https://githubstatsextended.vercel.app/api/toplangsusername=StanislavSeryogin&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=4&amp;hide=html,css,shell,javascript,typescript,python,java,ruby&amp;
     role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" height="170" />
   </div>
 
