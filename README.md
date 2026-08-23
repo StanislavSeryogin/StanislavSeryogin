@@ -49,6 +49,33 @@
 
 ## 📱 Featured Projects
 
+### LikarFlow
+
+#### A privacy-conscious doctor workspace delivered as a responsive Flutter Web/PWA.
+I designed and built LikarFlow as an end-to-end scheduling workspace for doctors: appointments, patient scheduling contacts, availability, working hours, days off, duty shifts, and dedicated ward-round workflows.
+
+
+
+#### Product Highlights
+- Day, week, month, and year scheduling views
+- Working hours, days off, availability, and duty shifts
+- Doctor-owned patient contacts and appointment history
+- Conflict-aware appointment management and structured locations
+- Responsive desktop and mobile Web/PWA experience
+
+#### Engineering Highlights
+- Feature-first Clean Architecture with Riverpod
+- Versioned REST API backed by Go and PostgreSQL
+- Optimistic concurrency, idempotent creation, and canonical reconciliation
+- Firebase Authentication with strict privacy and session boundaries
+- Production deployment with immutable artifacts and release smoke checks
+
+> Ward Round backend and UX design are complete; the full Flutter management UI is in progress.
+
+#### Tech Stack
+Flutter, Dart, Riverpod, go_router, Dio, Firebase Auth, Go, PostgreSQL, and OpenAPI.
+----------
+
 ### ReadEat
 
 #### A production Flutter bookstore and reading app for iOS and Android.
