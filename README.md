@@ -69,6 +69,13 @@ Currently developing and maintaining ReadEat — a cross-platform app that combi
 #### Tech Stack
 Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, and native Swift/Kotlin integrations.
 
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-08-23 at 19 29 41" src="https://github.com/user-attachments/assets/a3f06633-844c-4ca2-b5ca-517a412fcf55" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-08-23 at 19 29 49" src="https://github.com/user-attachments/assets/d5ce0c12-9853-4544-b45f-5ed8941b0d2c" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-08-23 at 19 30 54" src="https://github.com/user-attachments/assets/1e74b484-4b36-46d4-9cfd-070d4230db06" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-08-23 at 19 31 11" src="https://github.com/user-attachments/assets/b42cde89-fa52-4a69-b6a9-68ab8e64e1c6" />
+
+
+
 
 ### Neuro Scout Bot
 
