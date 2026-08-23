@@ -170,11 +170,12 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 - Secure authentication
 
 ## 📊 GitHub Stats
-  <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=StanislavSeryogin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_rank=true&amp;include_all_commits=true" alt="GitHub Stats" height="170" />
-<img src="https://githubstatsextended.vercel.app/api/toplangsusername=StanislavSeryogin&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=4&amp;hide=html,css,shell,javascript,typescript,python,java,ruby&amp;
-    role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" height="170" />
-  </div>
+ <p align="center">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?
+    username=StanislavSeryogin&amp;theme=tokyonight&amp;show_icons=true&amp;hide_rank=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?
+    username=StanislavSeryogin&amp;theme=tokyonight&amp;layout=compact&amp;langs_count=4" alt="Top Languages" />
+  </p>
 
 ## 📫 Let's Connect
 
