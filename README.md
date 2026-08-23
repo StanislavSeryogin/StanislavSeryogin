@@ -55,19 +55,9 @@
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ua/app/id6747118421)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.readeat.app)
-[![Website](https://img.shields.io/badge/Website-E85D3F?style=for-the-badge&logo=safari&logoColor=white)](https://readeat.com)
 
-Currently developing and maintaining ReadEat — a cross-platform app that combines a bookstore, personal library, EPUB reader, and audiobook player.
+I'm currently developing and maintaining ReadEat — a cross-platform app that combines a bookstore, personal library, EPUB reader, and audiobook player.
 
-#### Key Features
-- Printed books, e-books, and audiobooks in one application
-- Catalog, search, cart, checkout, and in-app purchases
-- Protected EPUB reading and audiobook playback
-- Reading goals, progress tracking, reviews, and recommendations
-- Secure authentication and digital-content access
-
-#### Tech Stack
-Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, and native Swift/Kotlin integrations.
   <br>
 
   <div align="center">
@@ -81,12 +71,35 @@ Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`
       alt="ReadEat App Screen"
       width="200"
     />
+    <img
+      src="https://github.com/user-attachments/assets/bbeb6e31-028e-4c55-881e-f30f8bf34368"
+      alt="ReadEat EPUB Reader"
+      width="200"
+    />
+    <img
+      src="https://github.com/user-attachments/assets/fbcb5e4b-8c48-411d-8082-1659bf9ef24d"
+      alt="ReadEat Audiobook Player"
+      width="200"
+    />
   </div>
 
   <br>
 
+#### Product Highlights
+- Printed books, e-books, and audiobooks in one application
+- Catalog, search, cart, checkout, and in-app purchases
+- Personal library with EPUB reading and audiobook playback
+- Reading goals, progress tracking, reviews, and recommendations
 
+#### Engineering Highlights
+- Layered Flutter architecture with Riverpod
+- Readium-based EPUB reader with protected-content support
+- Background audiobook playback and cross-format progress synchronization
+- Secure digital-content access and device binding
+- Native Swift/Kotlin integrations for platform-specific capabilities
 
+#### Tech Stack
+Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, and native Swift/Kotlin integrations.
 
 ### Neuro Scout Bot
 
