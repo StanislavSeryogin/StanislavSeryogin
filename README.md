@@ -51,8 +51,9 @@
 
 ### LikarFlow
 
-#### A privacy-conscious doctor workspace delivered as a responsive Flutter Web/PWA.
-I designed and built LikarFlow as an end-to-end scheduling workspace for doctors: appointments, patient scheduling contacts, availability, working hours, days off, duty shifts, and dedicated ward-round workflows.
+🌐 **Live application:** [likarflow.com](https://likarflow.com)
+
+A privacy-conscious doctor workspace delivered as a responsive Flutter Web/PWA.
   <p align="center">
     <img
       src="https://github.com/user-attachments/assets/5763a087-bc57-46c5-9c1e-d170468ef47a"
