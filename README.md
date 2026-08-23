@@ -100,6 +100,7 @@ I'm currently developing and maintaining ReadEat — a cross-platform app that c
 
 #### Tech Stack
 Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, and native Swift/Kotlin integrations.
+
 ----------
 
 ### Neuro Scout Bot
