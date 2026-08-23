@@ -84,8 +84,6 @@ I designed and built LikarFlow as an end-to-end scheduling workspace for doctors
 - Firebase Authentication with strict privacy and session boundaries
 - Production deployment with immutable artifacts and release smoke checks
 
-> Ward Round backend and UX design are complete; the full Flutter management UI is in progress.
-
 #### Tech Stack
 Flutter, Dart, Riverpod, go_router, Dio, Firebase Auth, Go, PostgreSQL, and OpenAPI.
 
