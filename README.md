@@ -53,6 +53,20 @@
 
 #### A privacy-conscious doctor workspace delivered as a responsive Flutter Web/PWA.
 I designed and built LikarFlow as an end-to-end scheduling workspace for doctors: appointments, patient scheduling contacts, availability, working hours, days off, duty shifts, and dedicated ward-round workflows.
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/5763a087-bc57-46c5-9c1e-d170468ef47a"
+      alt="LikarFlow Today desktop workspace"
+      width="620"
+    />
+    &nbsp;
+    <img
+      src="https://github.com/user-attachments/assets/b752bf72-29dd-4f45-92a9-60f5aa34daa9"
+      alt="LikarFlow responsive patient directory"
+      width="194"
+    />
+  </p>
+
 
 
 
@@ -74,6 +88,7 @@ I designed and built LikarFlow as an end-to-end scheduling workspace for doctors
 
 #### Tech Stack
 Flutter, Dart, Riverpod, go_router, Dio, Firebase Auth, Go, PostgreSQL, and OpenAPI.
+
 ----------
 
 ### ReadEat
