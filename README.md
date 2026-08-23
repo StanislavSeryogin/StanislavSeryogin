@@ -56,6 +56,7 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ua/app/id6747118421)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.readeat.app)
 [![Website](https://img.shields.io/badge/Website-E85D3F?style=for-the-badge&logo=safari&logoColor=white)](https://readeat.com)
+
 Currently developing and maintaining ReadEat — a cross-platform app that combines a bookstore, personal library, EPUB reader, and audiobook player.
 
 #### Key Features
