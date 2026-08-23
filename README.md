@@ -169,12 +169,11 @@ M2M App is a comprehensive mobile solution developed for both iOS and Android pl
 - Firebase services
 - Secure authentication
 
-  ## 📊 GitHub Stats
-
+## 📊 GitHub Stats
   <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=StanislavSeryogin&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" height="170" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?
-    username=StanislavSeryogin&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=4&amp;hide=html,css,shell,javascript,typescript,python,java,ruby&amp;include_all_repos=true" alt="Top Languages" height="170" />
+    <img src="https://github-stats-extended.vercel.app/api?username=StanislavSeryogin&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats"
+    username=StanislavSeryogin&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=4&amp;hide=html,css,shell,javascript,typescript,python,java,ruby&amp;
+    include_all_repos=true" alt="Top Languages" height="170" />
   </div>
 
 ## 📫 Let's Connect
