@@ -1,226 +1,175 @@
-# 👋 Hi there, I'm Stanislav Seryogin
+# Stanislav Seryogin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=485EF7&width=535&lines=📱+Mobile+Developer+%7C+🚀+Backend+Engineer;5%2B+years+of+coding+experience;Flutter+%26+Swift+%26+Kotlin+Expert;Go+%26+Dart+Backend+Developer)](https://git.io/typing-svg)
+**Full-Stack Engineer (Flutter & Go)**  
+Senior Flutter Developer | Go Backend Experience | Native iOS/Android Integrations
 
-#### I'm a passionate mobile app developer with expertise in cross-platform and native development, along with backend engineering skills.
+I build mobile applications and backend services with a focus on authentication, payments, and data protection. My work spans Flutter mobile and web apps, Go APIs, PostgreSQL, and native SDK and third-party library integration.
 
-## 🛠️ Tech Stack
+Commercial Flutter development since 2021, with end-to-end ownership from architecture to App Store release.
 
-### Mobile Development
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D95FF?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![StoreKit](https://img.shields.io/badge/StoreKit-8E8E93?style=for-the-badge&logo=apple&logoColor=white)
-![ARKit](https://img.shields.io/badge/ARKit-2C2C2E?style=for-the-badge&logo=apple&logoColor=white)
-![RealityKit](https://img.shields.io/badge/RealityKit-FFD60A?style=for-the-badge&logo=apple&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/stanislav-seryogin-496885223/) · [Email](mailto:stas.seryogin.87@gmail.com) · [Telegram](https://t.me/ssv_0306)  
+Cherkasy, Ukraine · Ukrainian: native · English: upper-intermediate
 
-### Backend Development
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Serverpod](https://img.shields.io/badge/Serverpod-6930C3?style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Technical Skills
 
-### API & Data
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=swift&logoColor=white)
-![Real-time Data](https://img.shields.io/badge/Real--time_Data-4285F4?style=for-the-badge&logo=socket.io&logoColor=white)
+| Area | Technologies and practices |
+| --- | --- |
+| Mobile & web | Flutter (iOS, Android, web/PWA), Dart, Riverpod, Swift, SwiftUI, Kotlin |
+| Backend & data | Go (Golang), chi, Fiber, Gin, PostgreSQL, REST APIs, OpenAPI |
+| Cloud & delivery | Docker, GitHub Actions, Firebase, Amazon S3, Azure Blob Storage |
+| Security & integrations | OAuth 2.0, JWT, TLS, CSRF protection, biometric authentication, Diia API, UAPKI integration via cgo |
+| Software design | Clean Architecture, SOLID, GRASP, design patterns |
+| AI development tools | OpenAI Codex, Claude Code |
 
-### UI/UX & Animation
-![UI/UX](https://img.shields.io/badge/UI%2FUX-212121?style=for-the-badge&logo=figma&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-00B9FF?style=for-the-badge&logo=airbnb&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-24B47E?style=for-the-badge&logo=rive&logoColor=white)
+<details>
+<summary>Additional tools and platform experience</summary>
 
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=cypress&logoColor=white)
+UIKit, StoreKit, ARKit, RealityKit, Combine, Serverpod, GraphQL, Rive, Lottie, GitLab CI/CD, Codemagic, Bitrise, Git, and Bitbucket.
 
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-FF6F00?style=for-the-badge&logo=codemagic&logoColor=white)
-![Bitrise](https://img.shields.io/badge/Bitrise-8A2BE2?style=for-the-badge&logo=bitrise&logoColor=white)
+</details>
 
-## 📱 Featured Projects
+## Selected Projects
 
 ### LikarFlow
 
-🌐 **Live application:** [likarflow.com](https://likarflow.com)
+**Flutter Web/PWA + Go backend** · [Live application](https://likarflow.com)
 
-A privacy-conscious doctor workspace delivered as a responsive Flutter Web/PWA.
-  <p align="center">
+A doctor workspace for scheduling, patient contacts, and appointment management, with responsive desktop and mobile layouts.
+
+<p align="center">
     <img
       src="https://github.com/user-attachments/assets/5763a087-bc57-46c5-9c1e-d170468ef47a"
       alt="LikarFlow Today desktop workspace"
-      width="620"
+      width="520"
     />
     &nbsp;
     <img
       src="https://github.com/user-attachments/assets/b752bf72-29dd-4f45-92a9-60f5aa34daa9"
       alt="LikarFlow responsive patient directory"
-      width="194"
+      width="166"
     />
   </p>
 
+**Product**
 
+- Day, week, month, and year scheduling views.
+- Working hours, days off, availability, and duty shifts.
+- Doctor-owned patient contacts, appointment history, and structured locations.
 
+**Engineering**
 
-#### Product Highlights
-- Day, week, month, and year scheduling views
-- Working hours, days off, availability, and duty shifts
-- Doctor-owned patient contacts and appointment history
-- Conflict-aware appointment management and structured locations
-- Responsive desktop and mobile Web/PWA experience
+- Feature-first Clean Architecture with Riverpod and a versioned Go/PostgreSQL REST API.
+- Optimistic concurrency, idempotent creation, and conflict-aware appointment management.
+- Firebase Authentication with explicit privacy and session boundaries.
+- Production deployment with immutable artifacts and release smoke checks.
 
-#### Engineering Highlights
-- Feature-first Clean Architecture with Riverpod
-- Versioned REST API backed by Go and PostgreSQL
-- Optimistic concurrency, idempotent creation, and canonical reconciliation
-- Firebase Authentication with strict privacy and session boundaries
-- Production deployment with immutable artifacts and release smoke checks
+**Stack:** Flutter, Dart, Riverpod, GoRouter, Dio, Firebase Authentication, Go, PostgreSQL, OpenAPI.
 
-#### Tech Stack
-Flutter, Dart, Riverpod, go_router, Dio, Firebase Auth, Go, PostgreSQL, and OpenAPI.
-
-----------
+---
 
 ### ReadEat
 
-#### A production Flutter bookstore and reading app for iOS and Android.
+**Senior Flutter Developer** · [App Store](https://apps.apple.com/ua/app/id6747118421) · [Google Play](https://play.google.com/store/apps/details?id=com.readeat.app)
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ua/app/id6747118421)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.readeat.app)
+A bookstore and reading app for iOS and Android, combining printed books, e-books, audiobooks, and a personal library.
 
-I'm currently developing and maintaining ReadEat — a cross-platform app that combines a bookstore, personal library, EPUB reader, and audiobook player.
-
-  <br>
-
-  <div align="center">
+<div align="center">
     <img
       src="https://github.com/user-attachments/assets/23ece002-fa28-44ae-9ea4-0ad2552a86fd"
       alt="ReadEat Home Screen"
-      width="200"
+      width="180"
     />
     <img
       src="https://github.com/user-attachments/assets/1a8996e2-9824-4e89-b0d2-e910cdbe4f34"
       alt="ReadEat App Screen"
-      width="200"
+      width="180"
     />
     <img
       src="https://github.com/user-attachments/assets/bbeb6e31-028e-4c55-881e-f30f8bf34368"
       alt="ReadEat EPUB Reader"
-      width="200"
+      width="180"
     />
     <img
       src="https://github.com/user-attachments/assets/fbcb5e4b-8c48-411d-8082-1659bf9ef24d"
       alt="ReadEat Audiobook Player"
-      width="200"
+      width="180"
     />
   </div>
 
-  <br>
+**Product**
 
-#### Product Highlights
-- Printed books, e-books, and audiobooks in one application
-- Catalog, search, cart, checkout, and in-app purchases
-- Personal library with EPUB reading and audiobook playback
-- Reading goals, progress tracking, reviews, and recommendations
+- Catalog, search, cart, checkout, and in-app purchases.
+- EPUB reading and audiobook playback.
+- Reading goals, progress tracking, reviews, and recommendations.
 
-#### Engineering Highlights
-- Layered Flutter architecture with Riverpod
-- Readium-based EPUB reader with protected-content support
-- Background audiobook playback and cross-format progress synchronization
-- Secure digital-content access and device binding
-- Native Swift/Kotlin integrations for platform-specific capabilities
+**Engineering**
 
-#### Tech Stack
-Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, and native Swift/Kotlin integrations.
+- Layered Flutter architecture with Riverpod.
+- Readium-based EPUB reader with protected-content support.
+- Background audiobook playback and cross-format progress synchronization.
+- Secure digital-content access, device binding, and native Swift/Kotlin integrations.
 
-----------
+**Stack:** Flutter, Dart, Riverpod, GoRouter, Dio, Freezed, Firebase, Readium, `just_audio`, Swift, Kotlin.
+
+---
+
+### Direct Help Foundation
+
+**Full-Stack Engineer (Volunteer)**
+
+A nonprofit donation platform with donor and recipient workflows, a web interface, and a Go/PostgreSQL backend.
+
+- End-to-end development of the backend, REST API, web interface, and back-office tools.
+- Registration, profiles, moderation, media, payments, and payouts.
+- Diia authentication and document sharing with secure callbacks and UAPKI integration via cgo.
+
+**Stack:** Go, PostgreSQL, REST APIs, Diia API, UAPKI, cgo.
+
+---
 
 ### Neuro Scout Bot
 
-##### A Telegram bot that automatically scouts and summarizes news articles from RSS feeds, powered by modern AI technology.
+**Go backend & API integrations** · [Source code](https://github.com/StanislavSeryogin/neuro_scout_bot_v1)
 
-<img src="https://github.com/StanislavSeryogin/images/blob/main/chat_bot.gif" alt="Chat Bot GIF" width="300">
+A Telegram bot that collects RSS articles, generates summaries through the OpenAI API, and publishes selected news to Telegram channels.
 
-#### Key Features
-- RSS feed monitoring with configurable sources and priorities
-- Automatic article summarization using OpenAI's GPT models
-- Smart filtering system to avoid duplicate content
-- Custom Telegram commands for source management
-- Auto-publishing to Telegram channels with AI-generated summaries
-- Priority-based article selection for important news
+<img src="https://github.com/StanislavSeryogin/images/blob/main/chat_bot.gif" alt="Neuro Scout Bot in Telegram" width="300">
 
-#### Tech Stack
-- Go (1.22+) with modern concurrency patterns
-- PostgreSQL for persistent storage
-- OpenAI API integration for intelligent summarization
-- Telegram Bot API for user interaction
-- Docker support for containerized deployment
+- Configurable RSS sources and priorities.
+- Article summarization, duplicate filtering, and scheduled publishing.
+- Telegram commands for source management.
 
-##### The bot autonomously fetches articles from various sources, evaluates their relevance, generates concise summaries using AI, and publishes them to a Telegram channel - creating a personalized news feed with minimal human intervention.
-----------
+**Stack:** Go, PostgreSQL, OpenAI API, Telegram Bot API, Docker.
+
+---
 
 ### M2M App
-<br>
 
-<div>
-  <a href="https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en">
-    <img src="https://img.shields.io/badge/App_Store-414141?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=m2m.eu&hl=en">
-    <img src="https://img.shields.io/badge/Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-</div>
+**Flutter mobile development** · [App Store](https://apps.apple.com/ua/app/m2m-app-by-m2m-eu/id6479287246?l=en) · [Google Play](https://play.google.com/store/apps/details?id=m2m.eu&hl=en)
 
-<br>
+An iOS and Android application for monitoring and managing connected devices.
 
 <div align="center">
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.jpg" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).jpg" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).jpg" alt="M2M App Showcase" width="200"/>
-  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).jpg" alt="M2M App Showcase" width="200"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w.jpg" alt="M2M App Showcase" width="180"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(3).jpg" alt="M2M App Showcase" width="180"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(4).jpg" alt="M2M App Showcase" width="180"/>
+  <img src="https://github.com/StanislavSeryogin/images/blob/main/460x0w%20(7).jpg" alt="M2M App Showcase" width="180"/>
 </div>
 
-<br>
+- Real-time device monitoring and data visualization.
+- Maps, geolocation, push notifications, and secure authentication.
+- REST API integration and native Swift/Kotlin capabilities.
 
-#### About the project:
+**Stack:** Flutter, Dart, Swift, Kotlin, REST APIs, Firebase, Geolocator.
 
-M2M App is a comprehensive mobile solution developed for both iOS and Android platforms using Flutter. The app provides cutting-edge connectivity and management features for M2M (Machine-to-Machine) communications, enabling users to efficiently monitor and control their connected devices.
+---
 
-**Key features:**
-- Real-time device monitoring and management
-- Secure communication protocols
-- Intuitive dashboard with data visualization
-- Cross-platform compatibility
-- Push notifications
+<details>
+<summary>GitHub Activity</summary>
 
-**Technologies used:**
-- Flutter & Dart & Swift & Kotlin
-- REST API integration
-- Real-time data processing
-- Maps & Geolocator
-- Firebase services
-- Secure authentication
-
-## 📊 GitHub Stats
- <p align="center">
+<p align="center">
     <img height="170" src="https://github-stats-extended.vercel.app/api?username=StanislavSeryogin&amp;theme=tokyonight&amp;show_icons=true&amp;hide_rank=true" alt="GitHub Stats" />
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=StanislavSeryogin&amp;theme=tokyonight&amp;layout=compact&amp;langs_count=4" alt="Top Languages" />
   </p>
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-seryogin-496885223/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stas.seryogin.87@gmail.con)
-
----
-
-⭐️ From [StanislavSeryogin](https://github.com/StanislavSeryogin)
+</details>
